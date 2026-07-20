@@ -1,4 +1,4 @@
-# Minecraft 2D - Beta 1.2
+Minecraft 2D - Beta 1.2
 Welcome to Minecraft 2D! A fan-made 2D recreation of the classic sandbox experience.
 
 🚀 How to Install
@@ -33,6 +33,6 @@ Interact: Right-click to interact with the world.
 Permissions: If images are not appearing, try right-clicking the .jar file and selecting "Run as Administrator."
 
 📝 Credits
-Developer: [Your Name/Handle Here]
+Developer: [Mika]
 
 Inspired by: Minecraft (Mojang Studios)
