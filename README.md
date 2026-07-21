@@ -19,10 +19,6 @@ Move: Use 'A' (Left) and 'D' (Right) keys.
 
 Jump: Press 'SPACE'.
 
-Pause: Press 'ESCAPE' to open the menu.
-
-Fullscreen: Toggle 'F11' to enter or exit full-screen mode.
-
 Interact: Right-click to interact with the world.
 
 🛠 Troubleshooting
